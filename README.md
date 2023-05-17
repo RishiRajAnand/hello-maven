@@ -1,4 +1,4 @@
-# getting-started
+# Hello maven is fun
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
